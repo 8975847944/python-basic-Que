@@ -1,0 +1,31 @@
+# Find and read 20 interview Question for Data type, Operators,Conditional Statment,Looping Statements, Functions.
+
+# Data Type :-
+ 1).How many types of data type in python? and which?
+ 2).What is mean by mutable and immutable data type? and which data type is mutable & immutable?
+ 3).Which properties of list, tuple, set, dictionary? 
+ 4).What is the diffirence between List & Set?
+
+# Operators :-
+ 1).What are operators?
+ 2).What is an operand and Expression?
+ 3).Which type of operator in python?
+ 4).What is the difference between == and = ?
+ 5).How many types of membership operator and which?
+
+# Conditional Statement :-
+ 1).What is conditional statement in python?
+ 2).What is indentation in python?
+ 3).What is nested if else?
+
+# Looping Statement :-
+ 1).What is iterrative statement in python?
+ 2).What is use of for loop in python?
+ 3).What is mean by nested for loop?
+ 4).What is range built in() function?
+
+# Function :-
+ 1).What is function and benefit of function?
+ 2).What is mean by return function?
+ 3).What is mean by positional argument?
+ 4).what is mean by keyword argumenty?
